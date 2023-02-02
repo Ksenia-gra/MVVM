@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\bin\Debug\MVVM_lab_IndTask.exe.config
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\bin\Debug\MVVM_lab_IndTask.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\bin\Debug\MVVM_lab_IndTask.pdb
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask_MarkupCompile.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask_MarkupCompile.lref
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.g.resources
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.Properties.Resources.resources
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVVM_lab_IndTask\MVVM_lab_IndTask\obj\Debug\MVVM_lab_IndTask.pdb

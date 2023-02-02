@@ -1,0 +1,37 @@
+﻿<Window x:Class="MVVM_lab_IndTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_lab_IndTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+            <StackPanel>
+            <TextBlock 
+                       Text="Размерность"
+                       Margin="20"
+                       HorizontalAlignment="Left"/>
+
+            <TextBlock Width="50"
+                       Text="Матрица"
+                       Margin="20"
+                       HorizontalAlignment="Left"/>
+
+        </StackPanel>
+        <StackPanel>
+            <TextBox Width="200"
+                     Text="{Binding Path=model.Size, UpdateSourceTrigger=PropertyChanged}"
+                     Margin="20"/>
+           
+            <TextBox MaxWidth="200"
+                     TextWrapping="Wrap"
+                     Text="{Binding Path=model.Matrix , Mode=OneWay}"
+                     
+                     IsReadOnly="True"
+                     Margin="20"/>
+        </StackPanel>
+       
+    </Grid>
+</Window>
